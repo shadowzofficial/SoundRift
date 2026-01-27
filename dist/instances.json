@@ -1,0 +1,12 @@
+{
+  "instances": [
+    {
+      "name": "bot-1",
+      "cwd": "C:\\Users\\Kyle\\Desktop\\Music-Bot--Discord-",
+      "cmd": ["C:\\Users\\Kyle\\AppData\\Local\\Programs\\Python\\Python314\\python.exe", "bot.py"],
+      "status_url": "http://127.0.0.1:8765/status",
+      "logs_url": "http://127.0.0.1:8765/logs",
+      "api_key": ""
+    }
+  ]
+}
